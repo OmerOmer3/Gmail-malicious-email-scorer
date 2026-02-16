@@ -116,5 +116,8 @@ Used to check URL reputation and detect malicious links.
 - Used simple scoring approach to keep the process clear and easy to understand
 - Focused on high signal-to-effort features
 
+## UI Preview
+<img width="346" height="700" alt="image" src="https://github.com/user-attachments/assets/d17725aa-4819-4ef3-be93-6ef4fc0e3521" />
+<img width="346" height="717" alt="image" src="https://github.com/user-attachments/assets/3ac465a3-59bb-420a-a2e5-e2a6c2b7454e" />
 
 
