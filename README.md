@@ -99,10 +99,9 @@ Used to check URL reputation and detect malicious links.
 
 ---
 ## Limitations
-
--The detection system relies on predefined rules and patterns, so it may occasionally flag safe emails as suspicious or miss more advanced threats
--The free tier of VirusTotal comes with rate limits, which can slow down or restrict scans
--The system isn’t built for high performance or large-scale production use.
+- The detection system relies on predefined rules and patterns, so it may occasionally flag safe emails as suspicious or miss more advanced threats
+- The free tier of VirusTotal comes with rate limits, which can slow down or restrict scans
+- The system isn’t built for high performance or large-scale production use.
 
 ---
 ## How to Run
