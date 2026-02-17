@@ -1,4 +1,4 @@
-# Gmail Malicious Email Scorer
+<img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/4434aee5-8d84-440a-803a-fdf5b5304fce" /><img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/4434aee5-8d84-440a-803a-fdf5b5304fce" /># Gmail Malicious Email Scorer
 
 ## Overview
 
@@ -125,5 +125,8 @@ Used to check URL reputation and detect malicious links.
 ## UI Preview
 <img width="346" height="700" alt="image" src="https://github.com/user-attachments/assets/d17725aa-4819-4ef3-be93-6ef4fc0e3521" />
 <img width="346" height="717" alt="image" src="https://github.com/user-attachments/assets/3ac465a3-59bb-420a-a2e5-e2a6c2b7454e" />
+<img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/e4049617-bf1d-480c-9411-04c3aa3f7ab4" />
+<img width="349" height="744" alt="image" src="https://github.com/user-attachments/assets/99530a37-5b7d-4d8f-aaad-4811c828d291" />
+
 
 
