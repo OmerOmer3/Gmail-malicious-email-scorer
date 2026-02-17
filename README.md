@@ -69,10 +69,10 @@ Components:
 
 The scoring model follows a simple rules framework, assigning weights to each signal:
 - Suspicious keywords → +10 each
-- Multiple links → +15
-- Malicious link detected → +40
+- Multiple links → +10
+- Malicious link detected → +30
 - Free email provider → +15
-- Long domain → +20
+- Long domain → +10
 - Blacklisted sender → +40
 
 Score thresholds:
