@@ -1,4 +1,4 @@
-<img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/4434aee5-8d84-440a-803a-fdf5b5304fce" /><img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/4434aee5-8d84-440a-803a-fdf5b5304fce" /># Gmail Malicious Email Scorer
+# Gmail Malicious Email Scorer
 
 ## Overview
 
