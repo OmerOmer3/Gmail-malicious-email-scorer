@@ -4,7 +4,7 @@
 
 This project is a Gmail Add-on that analyzes opened emails and produces a maliciousness score with a clear and explainable verdict.
 
-The add-on uses a multi-signal risk model combining content heuristics, sender analysis, link intelligence, external threat intelligence, and user-defined blacklist policies to evaluate potential risk.
+The add-on uses a multi-signal risk model combining content rules, sender analysis, link intelligence, external threat intelligence, and user-defined blacklist policies to evaluate potential risk.
 
 The goal is to demonstrate security-aware design, explainability, and clean architecture rather than production-grade detection.
 
