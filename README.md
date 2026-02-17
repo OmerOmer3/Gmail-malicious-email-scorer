@@ -74,7 +74,7 @@ The scoring model follows a simple rules framework, assigning weights to each si
 - Free email provider → +15
 - Long domain → +10
 - Blacklisted sender → +40
-The total score is capped at 100 to keep scoring interpretable and prevent signal inflation.
+The total score is normalized at 100 to keep scoring interpretable and prevent signal inflation.
 
 Score thresholds:
 
