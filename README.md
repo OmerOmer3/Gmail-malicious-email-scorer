@@ -127,6 +127,8 @@ Used to check URL reputation and detect malicious links.
 <img width="346" height="717" alt="image" src="https://github.com/user-attachments/assets/3ac465a3-59bb-420a-a2e5-e2a6c2b7454e" />
 <img width="349" height="825" alt="image" src="https://github.com/user-attachments/assets/e4049617-bf1d-480c-9411-04c3aa3f7ab4" />
 <img width="349" height="744" alt="image" src="https://github.com/user-attachments/assets/99530a37-5b7d-4d8f-aaad-4811c828d291" />
+<img width="1529" height="808" alt="image" src="https://github.com/user-attachments/assets/dce59417-84bf-48b5-a153-c2dfb9978e1f" />
+
 
 
 
